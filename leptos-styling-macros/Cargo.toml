@@ -1,0 +1,11 @@
+[package]
+name = "leptos-styling-macros"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "leptos_styling_macros"
+path = "src/lib.rs"
+proc-macro = true
+
+[dependencies]

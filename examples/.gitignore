@@ -1,0 +1,5 @@
+# Trunk Build Files
+**/dist/
+
+# Bin Files
+!**/Cargo.lock

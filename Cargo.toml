@@ -1,0 +1,14 @@
+[workspace]
+members = [".", "examples/basic", "leptos-styling-macros"]
+
+[package]
+name = "leptos-styling"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "leptos_styling"
+path = "src/lib.rs"
+
+[dependencies]
+leptos-styling-macros = { path = "leptos-styling-macros" }
