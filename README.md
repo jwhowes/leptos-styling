@@ -42,5 +42,7 @@ pub fn MyComponent -> impl IntoView {
 ## Supported CSS Extensions
 TODO
 
-## Inheriting 
+## Inheriting From CSS Files
+
+### Tailwind
 TODO
